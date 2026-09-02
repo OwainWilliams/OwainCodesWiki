@@ -23,6 +23,7 @@
     * [Alt Tag](coding/snippets/untitled/alt-tag.md)
     * [SQL - Could not import package](coding/snippets/untitled/sql-could-not-import-package.md)
     * [SQL Server Table Size Report (Used vs Allocated Space)](coding/snippets/untitled/sql-server-table-size-report-used-vs-allocated-space.md)
+    * [Reset Umbraco Password via DB](coding/snippets/untitled/reset-umbraco-password-via-db.md)
 * [Umbraco](coding/umbraco/README.md)
   * [Luke - Version helper](coding/umbraco/luke-version-helper.md)
   * [Umbraco 10+](coding/umbraco/umbraco-10+/README.md)
